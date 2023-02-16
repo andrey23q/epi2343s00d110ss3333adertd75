@@ -1,0 +1,88 @@
+{
+   "episodes":[
+      {
+         "tmdb_id":"93405",
+         "name":"Squid Game",
+         "links":[
+            {
+               "season":"1",
+               "episode":"1",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://google.com",
+                     "contentHost":"DoodStream",
+                     "contentSize":"800 MB"
+                  },
+                  {
+                     "quality":"BluRay",
+                     "url":"https://facebook.com",
+                     "contentHost":"Private",
+                     "contentSize":"1000 MB"
+                  }
+               ]
+            },
+            {
+               "season":"1",
+               "episode":"2",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://google.com",
+                     "contentHost":"DoodStream",
+                     "contentSize":"800 MB"
+                  },
+                  {
+                     "quality":"BluRay",
+                     "url":"https://facebook.com",
+                     "contentHost":"Private",
+                     "contentSize":"1000 MB"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "tmdb_id":"81356",
+         "name":"Sex Education",
+         "links":[
+            {
+               "season":"1",
+               "episode":"1",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://google.com",
+                     "contentHost":"DoodStream",
+                     "contentSize":"800 MB"
+                  },
+                  {
+                     "quality":"BluRay",
+                     "url":"https://facebook.com",
+                     "contentHost":"Private",
+                     "contentSize":"1000 MB"
+                  }
+               ]
+            },
+            {
+               "season":"1",
+               "episode":"2",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://google.com",
+                     "contentHost":"DoodStream",
+                     "contentSize":"800 MB"
+                  },
+                  {
+                     "quality":"BluRay",
+                     "url":"https://facebook.com",
+                     "contentHost":"Private",
+                     "contentSize":"1000 MB"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
