@@ -9,16 +9,10 @@
                "episode":"1",
                "urls":[
                   {
-                     "quality":"HD",
-                     "url":"https://google.com",
-                     "contentHost":"DoodStream",
+                     "quality":"VIP HD",
+                     "url":"https://pelisplus.esplay.io/player.html?ref=pelisplus2#614f271642abd6714ae96483",
+                     "contentHost":"VIP",
                      "contentSize":"800 MB"
-                  },
-                  {
-                     "quality":"BluRay",
-                     "url":"https://facebook.com",
-                     "contentHost":"Private",
-                     "contentSize":"1000 MB"
                   }
                ]
             },
@@ -43,8 +37,8 @@
          ]
       },
       {
-         "tmdb_id":"81356",
-         "name":"Sex Education",
+         "tmdb_id":"60625",
+         "name":"Rick and Morty",
          "links":[
             {
                "season":"1",
@@ -55,30 +49,7 @@
                      "url":"https://google.com",
                      "contentHost":"DoodStream",
                      "contentSize":"800 MB"
-                  },
-                  {
-                     "quality":"BluRay",
-                     "url":"https://facebook.com",
-                     "contentHost":"Private",
-                     "contentSize":"1000 MB"
                   }
-               ]
-            },
-            {
-               "season":"1",
-               "episode":"2",
-               "urls":[
-                  {
-                     "quality":"HD",
-                     "url":"https://google.com",
-                     "contentHost":"DoodStream",
-                     "contentSize":"800 MB"
-                  },
-                  {
-                     "quality":"BluRay",
-                     "url":"https://facebook.com",
-                     "contentHost":"Private",
-                     "contentSize":"1000 MB"
                   }
                ]
             }
