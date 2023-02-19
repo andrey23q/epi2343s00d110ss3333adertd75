@@ -37,6 +37,42 @@
          ]
       },
       {
+         "tmdb_id":"37854",
+         "name":"One Piece",
+         "links":[
+            {
+               "season":"21",
+               "episode":"1052",
+               "urls":[
+                  {
+                     "quality":"VIP HD",
+                     "url":"https://terabox.com/sharing/embed?surl=-3hKJlbsEL_HUC9oRwYt_A&resolution=1080&autoplay=true&mute=false&uk=4399467314851&fid=21546706165319",
+                     "contentHost":"VIP",
+                     "contentSize":"800 MB"
+                  }
+               ]
+            },
+            {
+               "season":"1",
+               "episode":"2",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://google.com",
+                     "contentHost":"DoodStream",
+                     "contentSize":"800 MB"
+                  },
+                  {
+                     "quality":"BluRay",
+                     "url":"https://facebook.com",
+                     "contentHost":"Private",
+                     "contentSize":"1000 MB"
+                  }
+               ]
+            }
+         ]
+      },
+      {
          "tmdb_id":"60625",
          "name":"Rick y Morty",
          "links":[
