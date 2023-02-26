@@ -67,6 +67,24 @@
                      "url":"https://www.yourupload.com/embed/64DFBvFaenGg",
                      "contentHost":"SUB HD VIP",
                      "contentSize":""
+                       }
+                     ]
+                  },
+                  {
+               "season":"21",
+               "episode":"1053",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://terabox.com/sharing/embed?surl=3iLar4TotWGarWE3PuyaCw&resolution=1080&autoplay=true&mute=false&uk=4399467314851&fid=156204441908741",
+                     "contentHost":"SUB VIP HD",
+                     "contentSize":"800 MB"
+                  },
+                  {
+                     "quality":"HD",
+                     "url":"https://www.yourupload.com/embed/Q37XG4R5RVb4",
+                     "contentHost":"SUB HD VIP",
+                     "contentSize":""
                   }
                ]
             }
