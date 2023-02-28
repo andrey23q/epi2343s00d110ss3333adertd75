@@ -1,18 +1,18 @@
 {
    "episodes":[
       {
-         "tmdb_id":"93405",
-         "name":"Squid Game",
+         "tmdb_id":"3475",
+         "name":"The L Word",
          "links":[
             {
                "season":"1",
                "episode":"1",
                "urls":[
                   {
-                     "quality":"VIP HD",
-                     "url":"https://pelisplus.esplay.io/player.html?ref=pelisplus2#614f271642abd6714ae96483",
-                     "contentHost":"VIP",
-                     "contentSize":"800 MB"
+                     "quality":"HD",
+                     "url":"https://series24.online/embed.php?dnc3S0tlaS95WHBYUlNCUnlRYXVzajVLVFl1YTFGUlcxVmNVTndsZ0tMei8rYVV1NGJ0S3JiYlR0NHBJSmlNbVBwR2RQbU56VG5mcGdRQmtMNnk2RnpYdU8rMWhQY1dPSWN6NVdTWklIVWNjd1A5TTFUUmZISXovKzdEL0ZxVnFjeUU5UmJpbUViQ1dXZ1hsVmVrSVBrNWhCd01UQ3R2VnAzd2p2Y1Ardlk3aFhIM3NYYmlINjVxajBTSzNPU01VcFU3OURZU0ZRYWdXM1NVWk1MQzd0VjNQMzQrN095VE8wZDg2SDU4cXR3WlRFZEtpeTVZR1V5TTVJdjlrZTE5ZTo6JQ7AjPbLVrDbf6TtCACJ6Q%3D%3D",
+                     "contentHost":"VIP ES ESPAÑA ",
+                     "contentSize":"CASTELLANO"
                   }
                ]
             },
@@ -22,15 +22,149 @@
                "urls":[
                   {
                      "quality":"HD",
-                     "url":"https://google.com",
-                     "contentHost":"DoodStream",
-                     "contentSize":"800 MB"
+                     "url":"https://seriesflix.video/?trembed=0&trid=90240&trtype=2",
+                     "contentHost":"VIP ES ESPAÑA ",
+                     "contentSize":"CASTELLANO"
                   },
+            {
+               "season":"1",
+               "episode":"3",
+               "urls":[
                   {
-                     "quality":"BluRay",
-                     "url":"https://facebook.com",
-                     "contentHost":"Private",
-                     "contentSize":"1000 MB"
+                     "quality":"HD",
+                     "url":"https://series24.online/embed.php?b2E1NTZwcGhrL3ZCcDY0V1lTMWhWT0RxbVM5UFZacnBwR3RoeStSajVPZnppZTFCT2Qwa0dySEczcTRKb3YzSU41M01wbjREZGVPVjZUZGhSUnJVMS9GczJMejRlQ1ozd2ZDSUhZdlgvMkZFK2JlVmZhc1hSSVhETWNiUlRnRDZvandtYTU1UXBKTndtSDY0eGpJY3ZmZStmWmJibjVNQWJmQWVOWjdRenBHdzdKYTZpSHlvZWwwSTFMQXBwT1RSeVhpMkw2UEVvdjNHdEJjZW13L2tMK1F6Mk13MHgyVFRhRjV5bk5PVEo2aFNzVUNEaDdhcjJ6TmJVdCtaems5Njo67auvFjq2bWO669cm7eb1PA%3D%3D",
+                     "contentHost":"VIP ES ESPAÑA ",
+                     "contentSize":"CASTELLANO"
+                  },
+            {
+               "season":"1",
+               "episode":"4",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://series24.online/embed.php?R1JsMUgzTXRVQ0l3TlhwVUU1ak5manVlTFZZaTNYU0w0azlGcmx4OVVKRS9JVGc5RVdCYThOWHZFR1U4alNSVmplOVJMZ1pMa1FndmRGcDJyQ1d4Y2V6UllOdkVXYmNSejNlcE10cTVHR2Ywd0pTV01hOFdYaU9aUjhDVlVzNGFVSk5ydVR5cUdxTmMxWmZSQWJBSWlROS9yUjA5S0swZ05JUVZGU2gxSEhUS3BJNStqUjNZaS91R0xKRXp3aEF0NzJ1SFdhRjQ3dURxQkxsbnZFNlRCMjhHMkI2VVhZT0xDaEw4Z0ZoRVhtZUNIK3JiRE1NVXh6VDc1b0M2YzRyMDo61mkZoKGwD3uIxY7b4uuPfQ%3D%3D",
+                     "contentHost":"VIP ES ESPAÑA ",
+                     "contentSize":"CASTELLANO"
+                  },
+            {
+               "season":"1",
+               "episode":"5",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://series24.online/embed.php?Zm50dmkyanhEcHN1RnZFSGlzb2lFV21xYmRSOWJoUW1NRG5SVU5paXA2RThGdU1TSzFLd1VPSjJpOGZPNE1SSFRtM0JXOVpndHdqL3l5aWt2aUZNMjdjZnNTeS9odGQ5NnFXdStDL1ppZWtLeWRxZGk3OVNqcEs2b1lQZENKbStxMk9mR3BwQ2lDYml0WE9tSlZkMmZPeDFmNjhyUXZ6ZGltMVVlZEVMTUJ2WTNZVlhyeXhweVpBd0pjVTdQc2VKbE04blR3VVJqZkdsTUs1YnlPRjgwN1d1Z0ZQTHMycnI4ZjdUZ1YzNkdwOVFMRXcrK3RJaE41T1RZbVh2WFVFOTo6C%2FXLJWXnZIUfMTzWqOjTjQ%3D%3D",
+                     "contentHost":"VIP ES ESPAÑA ",
+                     "contentSize":"CASTELLANO"
+                  },
+            {
+               "season":"1",
+               "episode":"6",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://series24.online/embed.php?cFBvSDRkQ2E4MkNra0VSdXN1clRCbFdwWHhqVmNlcVZRZTJyTjJ1ZGFMMjN1d3dnVmpzSG9nWFZWZEd3bjFkU1FmbGszWEgwcFhxMzE5TUE5ZmkzQUtxRzB1ZCtCaVhaRmJVTC9WQkNOMUU5NTFJUFk3UmNOV25taXF3MHdnM1ZySlJkUUxPZG5FbStiVHUvTXVCNkswUjlYdWNoR2pvN3VZMWlaRG1Mc3hQVDQyWlpHMVNQTnNLaGU4dDRjNFpUNzNYS1NqcTUyNUN6RHQyY0UwdUtNY3A5LzhGVVZLRGZENEk3L2VBSTAyZnhqaEJ4NUNvSzVjYVY4ZGtRaGRJUTo6B7IrUoQLwlld3zVIKd%2FPGw%3D%3D",
+                     "contentHost":"VIP ES ESPAÑA ",
+                     "contentSize":"CASTELLANO"
+                  },
+            {
+               "season":"1",
+               "episode":"7",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://series24.online/embed.php?MlFZcVRGZzB5dmorTUluOXZod0N6MWROandMa2ZSUnF3Y0dCcUEwZDcvL2poVkJnN1REdEtYUzFLUFNRcmx3OEFOcG9wM01HckFOWS9xaGdSYmgzbEpsSU1CMnBETkwzVHpPVVBWY2pjd1IvRTFzd2pwUE9uc2FJdzVNdldDQWtWUG50bXJNaFY2V0EreWswNjVlczA0R2ZMTEZMNGZKZzgxalUvTFR2Qkw0UzdiZFduaGVxNjMxKzE2NHhTd1NiVkVnejRMMEpxRWlqczB1T09ucTZNdE5XZWxVeEovOC94UFA4NzJkby9kdzF0NmUyUFBvcTRZazkrTER6VUdEQzo6aOh7uOqlxbpVUMQgqFfPVQ%3D%3D",
+                     "contentHost":"VIP ES ESPAÑA ",
+                     "contentSize":"CASTELLANO"
+                  },
+            {
+               "season":"1",
+               "episode":"8",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://series24.online/embed.php?R2w5c2ZTNS84Q2dKSXpkcXhFWEhqeHBlN3ZlMnVNK21GUWVvYXo3TVI1MklJY2FNay96UXNqZE84eTZkbEJFOVNVV0MvdVZBYUtxZitGVGNCZWlmS3FzdjRreWRsdWQ5dU1DU0w5Nk1UZ0dHTk1zTndwc09VS1Evc25PZHZ1K3lYelVDOWxia1l5cEd3R3oyV3duSmZLdDJKWUFpSXd2Y3BEaFdEV2xRMCtMSWhLbXVYZ0pHMzg0UC95WXhZR015UzhVYWhzeGlFMkMrSDJ5RGVUNFJ1eVZzOTZwUW1ONURQeVkxOWRFVHFnV01ueUFETVVIWUw2YnNqUk13V2h1WTo6McmdC27bdywIJ1CcUPwazQ%3D%3D",
+                     "contentHost":"VIP ES ESPAÑA ",
+                     "contentSize":"CASTELLANO"
+                  },
+            {
+               "season":"1",
+               "episode":"9",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://seriesflix.video/?trembed=0&trid=90261&trtype=2",
+                     "contentHost":"VIP ES ESPAÑA ",
+                     "contentSize":"CASTELLANO"
+                  },
+            {
+               "season":"1",
+               "episode":"10",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://series24.online/embed.php?djhlUHdlVVk0Z2NtbjhHeCs2WWIrSytyeGF5NXZWKytKNHBvTEViUUFWeTUrZlJhNStTQmlBOWtUODZUdmc0eWxTWXFEelZENzVNWkxHMG5pRGRLTHZQM1k0TFZZclB2REQ5R05HT2lwbFdnYkoxYk1mSUt2K0dOZkYzV3dNR2J2Y0NVRmYvMFhJZ28rckloaGlHNEM4bUJZOVNvN3JXMUtxTVZEMzFkU2NQSFdySmk1Z3pXSE1vVXRJYjA4SGtCMzE0VE0xai9FNWpPZjJaWVJOV3R3clZQZHdFV0lqYmd0VVNyT3RiRVJ5OS9JM1BRc1NsWUI1bWpTMnFGWEtwZjo6hRfsKLaM%2BKixW8%2FMv54sxw%3D%3D",
+                     "contentHost":"VIP ES ESPAÑA ",
+                     "contentSize":"CASTELLANO"
+                  },
+            {
+               "season":"1",
+               "episode":"11",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://series24.online/embed.php?Z3YvanV0Y002RjVVVTQxajB5OGdoOTZNakJLRXkwNUk5Yy9oN0g2aDM5b3UyQkFnWENCSURJbFE3cDB6bjdiRzdmVCt3aW5mb2VtQzI5WEZLa0pPZS9UME9hOWd1SEdnNDVFeUtFR3pyUjZKazlOc1RGUERDcVFzZ3I1VTlaQmNuN1A5R3g0Wk0ydTdURFVoQTlBeUJSWk1uUnNQaUo3Y3k5ZjdobGUvd0l1ZWk3cXBCcGYyQjF3UmdSS1c2RkpvT3dGQjBobUNTL2Z1UE81WTFLZHd1TFlNQmtYQmtKN1dMeTdGYjZzWFlUVCtrNUpRdUNJeXhURXpmQ1RiMFo0cDo6xfhDWP4CRoB7F4YvvvFo%2Bw%3D%3D",
+                     "contentHost":"VIP ES ESPAÑA ",
+                     "contentSize":"CASTELLANO"
+                  },
+            {
+               "season":"1",
+               "episode":"12",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://series24.online/embed.php?VzJEaUZEV1BpT1M0Z3E0alhBNTNCbWNscFgyOEo3endlYSttOXJEREg0ZHI2M0w1dVRYTXFhZ3cvcUFBNFZCUVJCOFlnTkptVHJhbmhFNENaTWNDZ0FnRUdiSjB0aGtjVGZjb0NuMFlCVjBBdjNtdFVnakN5eUZreDRSMUIrR09jK3g0SlViSC9GdUNLWmJ5TkcwaUF5V3A2OXdydjJJUTNQWEFkM252TFZHR0tFSVNzTzhWdHA3VVRLUm9meVd0bE5YdnRIYnVJR01pS0dUMEJjWDdtQzNWRUZSMWVyYXdQSktVUy9NdTY1MFUvWUtySHZCMGNHb21NcXlvcDNQRTo6cLzAywfIuwgPw316eYRcBA%3D%3D",
+                     "contentHost":"VIP ES ESPAÑA ",
+                     "contentSize":"CASTELLANO"
+                  },
+            {
+               "season":"1",
+               "episode":"13",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://seriesflix.video/?trembed=0&trid=90292&trtype=2",
+                     "contentHost":"VIP ES ESPAÑA ",
+                     "contentSize":"CASTELLANO"
+                  },
+            {
+               "season":"1",
+               "episode":"14",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://series24.online/embed.php?QXVnM3VYTjFOUHlGay91MHRCTVpyWm50cUZuUHkxeUJ0NmVEU1JTZkZ6SW5EYW5pdGZ6elFjcXMvNmRiSWk3ZEpPRHB1dXhuV0RDSFJQOW9oQWJkdjJXeHB2dHpNZ0pQVHFYckwrWENHWGhuWUU0T0FzMEwvc2M0bjRHekRVa3NORnZ6Rmd1ellJblh6MVh2VGttR3B5VkN2eUkzL1FtMGR3SCtBVFp1VzMrVExIeEhCbUs3ZldmVk1HSHZ6SmR3K2E5eWRpcFhKR3dRcGt0SGdpNW1EZTZCWE5kV3JLVjNSNVZqNHJUQTRMRGJuNXNRWkdNa3BQL1VYZjcyWnZhNTo6zltgss9OlCoY%2B2o1CfdpGw%3D%3D",
+                     "contentHost":"VIP ES ESPAÑA ",
+                     "contentSize":"CASTELLANO"
+                  },
+            {
+               "season":"2",
+               "episode":"1",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://series24.online/embed.php?MENDOVl6TDhOQUMwSFNGRDBIaHFVYTBWcWM0WndKblh5VXhaL3NGK1pFQkxVYUpnaWdtN1ZoNWlwbkNMY3d0aHBGdHRTZlJTajBvQmN2ZEQzbGRPOFBMcWpkVTZLVk44UEtvcU9HKzNQaTZRczRrUyt2SGZxY1ZEN3IzblZXdHlFd0dKZzhWVGR4TWFZZm9FaUNBdGluYWk5Zm5nWEwwM1BvbUg2NnBDTXFxcGhVMTB0cUw5WjNCejhyVVBUNHpvWkh2cU1PMUxOcXNNYmRmZnRYd3d2RVJuT3pLUklTUVJ3S2tmTExLV0dDaUFjSVNCSS9raGFGRjZwT1A4ejVkWTo6L6qR0NDCTwGuEL08z6WC0Q%3D%3D",
+                     "contentHost":"VIP ES ESPAÑA ",
+                     "contentSize":"CASTELLANO"
+                  },
+            {
+               "season":"2",
+               "episode":"2",
+               "urls":[
+                  {
+                     "quality":"HD",
+                     "url":"https://series24.online/embed.php?c2FlcEpac1hmZEZJWTBoZ2ViUWpMTkdCZ09CTWJSdFNyUkdLWWlDRUlNdmNJSzJ4K2JYUUZlUUcvcjZENzVPZTJtY1ROLzkwNGdXWUN1MVZGMmNaNHFRSmpxMjJMUDlreEFaaTV5WFBCelRsTUd1MkRqYjFIUVV4SkVieE94SnUyMDlaSEZOSW9tdjJtYmdiZ0l0K2hLM0U5NythZWV3YnJGZE5yM2hPMkVLQnFJZ2MrMFFjUXlCcGUwSlVjOWE5SlVVMng3Q1ExZVBGNGZNTC9pV1NEbzhJSFB5TDFkVTZjcWRyVHZwcFpMSjF6K0J2OXRNSGZOSlJwZ01BcGhWaDo6QOuZi%2FcKcrM4RGWBqEK3bQ%3D%3D",
+                     "contentHost":"VIP ES ESPAÑA ",
+                     "contentSize":"CASTELLANO"
                   }
                ]
             }
